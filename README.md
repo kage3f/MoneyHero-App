@@ -29,3 +29,5 @@ bash
 Copy code
 GET http://localhost:8000/api/cobrancas
 Esta rota retorna dados no formato JSON, simulando a resposta que seria obtida de um banco de dados real.
+
+Para mais informações sobre outras rotas e funcionalidades, consulte a documentação interna do código ou entre em contato com os desenvolvedores.
