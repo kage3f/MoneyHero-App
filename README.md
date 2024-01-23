@@ -29,7 +29,8 @@ A rota principal para obter os dados das cobranças é:
 
 ```bash
 GET http://localhost:8000/api/cobrancas
-POST http://localhost:8000/api/cobrancas ( A rota POST já adiciona uma nova cobrança no banco de dados, porem como a rota GET está usando um json estático, essa rota deixa de fazer sentido, porem já está construída. Segue abaixo um exemplo de inserção:
+POST http://localhost:8000/api/cobrancas ( A rota POST já adiciona uma nova cobrança no banco de dados,
+porem como a rota GET está usando um json estático, essa rota deixa de fazer sentido, porem já está construída. Segue abaixo um exemplo de inserção:
 
 **Exemplo de Inserção:**
 
